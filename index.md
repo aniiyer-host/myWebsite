@@ -2,17 +2,16 @@
 layout: default
 ---
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a SY in BTech Computer Engineering at KJ Somaiya College of Engineering. Possessing a keen interest (Emphasis on the keen) in Cybersecurity and love exploring the different subdomains it has to offer. Personally like the red team but always open to learning anything cyber. Currently in the cybersecurity department in the recently opened Megaproject called Somaiya Space Research Project and will be learning about satellite cybersecurity. Always on learning and exploring new things. Leisure time is spent on Cybersecurity , reading books and watching basketball.
 
-## Header 2
+## What I am currently working on
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Course 5 in the 8 Course Google Cybersecurity 
 
-### Header 3
+
+### A glimpse of what I am working on
 
 ```js
 // Javascript code with syntax highlighting.
@@ -29,87 +28,18 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+## What i will be working on
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+1.  SATCOM and its working
+2.  Basic Cyrptography(built a Caesar Cipher in c++)
+ 
 
-##### Header 5
+##### Skills
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1.  Linux & SQL
+2.  C++,C & Java
+3.  Networks (basic)
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Stick around maybe I'll suprise you ?
 ```
